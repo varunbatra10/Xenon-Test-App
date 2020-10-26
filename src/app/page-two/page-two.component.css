@@ -1,0 +1,18 @@
+.user-container {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+  }
+  table {
+    width: 100%;
+}
+.center{
+    width: 50%;
+    margin: auto;
+}
+ul#menu li {
+  display:inline;
+  font-weight: bold;
+  color: blue;
+  cursor: pointer;
+}

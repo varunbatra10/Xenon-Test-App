@@ -1,0 +1,48 @@
+<div class="col-md-6 user-container">
+    <h2 style="margin: auto"> User Details</h2>
+    <table class="table table-striped" align-center=true>
+      <thead>
+      <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Age</th>
+        <th>Date of Birth</th>
+      </tr>
+      </thead>
+      <tbody>
+                     
+      <tr *ngFor="let user of users">
+        <td>{{user.id}}</td>
+        <td>{{user.name}}</td>
+        <td>{{user.age}}</td>
+        <td>{{user.dob}}</td>
+      </tr>
+      </tbody>
+    </table>
+    <!-- <div>
+      <label>Show Listing</label>
+      <select [(ngModel)]="countVal"  (selectionChange)="getMaxElements()"  >
+              <option *ngFor="let count of showListingDropdown" [value]="count">
+                      {{count}}
+                    </option>
+      </select>
+    </div> -->
+<div *ngIf="pages?.length > 0" class="custom-pagination">
+  <ul id="menu">
+      <li>
+          <a (click)="getPageNo('prev')"  class="prev disabled">
+              Prev
+          </a>
+      </li>
+      <li  *ngFor="let page of pages;let i = index;">
+          <a (click)="getPageNo(page)" [class]="page == pageNo?'current active':'current'"> {{page}} 
+          </a>
+      </li>
+      <li>
+          <a (click)="getPageNo('next')" class="next">
+              Next
+          </a>
+      </li>
+  </ul>
+</div>
+</div>

@@ -1,0 +1,13 @@
+.error{
+    color: #FF0000;
+  }
+  .reset{
+    color: #ff7300;
+  }
+  .login-container {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(39, 201, 250);
+    margin: 2em auto auto;
+  }
+  

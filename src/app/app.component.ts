@@ -6,5 +6,14 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Xenon-test-app';
+  token:Boolean;
+  ngOnInit() {
+    if(window.localStorage.getItem("authenticated")=="true"){
+      this.token = true;
+    }
+  }
+  logout(){
+    window.localStorage.removeItem("authenticated");
+    window.location.reload();
+  }
 }

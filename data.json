@@ -1,0 +1,202 @@
+{
+  "login": [
+    {
+      "username": "admin",
+      "password": "admin"
+    }
+  ],
+  "users": [
+    {
+      "name": "Varun Batra",
+      "age": 26,
+      "dob": "1994-03-18",
+      "id": 1
+    },
+    {
+      "name": "Raj Mishra",
+      "age": 23,
+      "dob": "1994-08-27",
+      "id": 2
+    },
+    {
+      "name": "Akshay Batra",
+      "age": 26,
+      "dob": "1994-03-18",
+      "id": 3
+    },
+    {
+      "name": "Akshay Mishra",
+      "age": 23,
+      "dob": "1994-08-27",
+      "id": 4
+    },
+    {
+      "name": "Raj Batra",
+      "age": 26,
+      "dob": "1994-03-18",
+      "id": 5
+    },
+    {
+      "name": "Raja Mishra",
+      "age": 23,
+      "dob": "1994-08-27",
+      "id": 6
+    },
+    {
+      "name": "Akshaya Batra",
+      "age": 26,
+      "dob": "1994-03-18",
+      "id": 7
+    },
+    {
+      "name": "Aksha Mishra",
+      "age": 23,
+      "dob": "1994-08-27",
+      "id": 8
+    },
+    {
+      "name": "Varun Batra",
+      "age": 26,
+      "dob": "1994-03-18",
+      "id": 9
+    },
+    {
+      "name": "Raj Mishra",
+      "age": 23,
+      "dob": "1994-08-27",
+      "id": 10
+    },
+    {
+      "name": "Akshay Batra",
+      "age": 26,
+      "dob": "1994-03-18",
+      "id": 11
+    },
+    {
+      "name": "Akshay Mishra",
+      "age": 23,
+      "dob": "1994-08-27",
+      "id": 12
+    },
+    {
+      "name": "Raj Batra",
+      "age": 26,
+      "dob": "1994-03-18",
+      "id": 13
+    },
+    {
+      "name": "Raja Mishra",
+      "age": 23,
+      "dob": "1994-08-27",
+      "id": 14
+    },
+    {
+      "name": "Akshaya Batra",
+      "age": 26,
+      "dob": "1994-03-18",
+      "id": 15
+    },
+    {
+      "name": "Aksha Mishra",
+      "age": 23,
+      "dob": "1994-08-27",
+      "id": 16
+    },
+    {
+      "name": "Varun Batra",
+      "age": 26,
+      "dob": "1994-03-18",
+      "id": 17
+    },
+    {
+      "name": "Raj Mishra",
+      "age": 23,
+      "dob": "1994-08-27",
+      "id": 18
+    },
+    {
+      "name": "Akshay Batra",
+      "age": 26,
+      "dob": "1994-03-18",
+      "id": 19
+    },
+    {
+      "name": "Akshay Mishra",
+      "age": 23,
+      "dob": "1994-08-27",
+      "id": 20
+    },
+    {
+      "name": "Raj Batra",
+      "age": 26,
+      "dob": "1994-03-18",
+      "id": 21
+    },
+    {
+      "name": "Raja Mishra",
+      "age": 23,
+      "dob": "1994-08-27",
+      "id": 22
+    },
+    {
+      "name": "Akshaya Batra",
+      "age": 26,
+      "dob": "1994-03-18",
+      "id": 23
+    },
+    {
+      "name": "Aksha Mishra",
+      "age": 23,
+      "dob": "1994-08-27",
+      "id": 24
+    },
+    {
+      "name": "Varun Batra",
+      "age": 26,
+      "dob": "1994-03-18",
+      "id": 25
+    },
+    {
+      "name": "Raj Mishra",
+      "age": 23,
+      "dob": "1994-08-27",
+      "id": 26
+    },
+    {
+      "name": "Akshay Batra",
+      "age": 26,
+      "dob": "1994-03-18",
+      "id": 27
+    },
+    {
+      "name": "Akshay Mishra",
+      "age": 23,
+      "dob": "1994-08-27",
+      "id": 28
+    },
+    {
+      "name": "Raj Batra",
+      "age": 26,
+      "dob": "1994-03-18",
+      "id": 29
+    },
+    {
+      "name": "Raja Mishra",
+      "age": 23,
+      "dob": "1994-08-27",
+      "id": 30
+    },
+    {
+      "name": "Akshaya Batra",
+      "age": 26,
+      "dob": "1994-03-18",
+      "id": 31
+    },
+    {
+      "name": "Aksha Mishra",
+      "age": 23,
+      "dob": "1994-08-27",
+      "id": 32
+    }
+  ]
+}
